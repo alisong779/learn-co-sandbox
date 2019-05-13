@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class CommandLine 
  
   def initialize
@@ -46,4 +47,7 @@ class CommandLine
       #puts "#{scraped data for horoscope}"
       #call 
   end 
+=======
+class CLI 
+>>>>>>> c26e8b054e4e8423388c0cd2c789d9ca6af35224
 end 
