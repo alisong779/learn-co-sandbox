@@ -1,0 +1,2 @@
+class Horoscopes
+end 
