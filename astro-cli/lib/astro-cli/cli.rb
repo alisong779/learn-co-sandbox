@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-class CommandLine 
+class CLI  
  
-  def initialize
-   
-  end 
-  
-  def call 
+  def run 
     input = ""
       puts "Hello There! Welcome to Astro Land!"
       puts "To find out what your Astrological Sign is, enter 'sign'."
@@ -47,7 +42,3 @@ class CommandLine
       #puts "#{scraped data for horoscope}"
       #call 
   end 
-=======
-class CLI 
->>>>>>> c26e8b054e4e8423388c0cd2c789d9ca6af35224
-end 
